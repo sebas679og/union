@@ -23,7 +23,7 @@ La plantilla utilizada en este proyecto incluye los siguientes archivos:
 
 ## URL del Sitio
 
-El sitio se encuentra accesible en: [https://tuusuario.github.io/nombre-del-repositorio](https://tuusuario.github.io/nombre-del-repositorio)
+El sitio se encuentra accesible en: [https://sebas679og.github.io/union/index.html](https://sebas679og.github.io/union/index.html)
 
 ## Créditos de la Plantilla
 
